@@ -22,12 +22,14 @@ To use Email TNT, simply visit our website through tor at http://35gcfuifddwtymo
 If you need to send more than the free default limit of 300 emails per day, you can upgrade to our premium plan. With the premium plan, you'll get increased bomb limits and priority support. Contact us for more information on pricing and availability.
 
 
-** discord server **
+**discord server**
 
 https://discord.gg/b9CURcZj9t
-** telegram **
+
+**telegram**
 
 https://t.me/professionaltnt
+
 **session**
 
 05932dbe5264d6b2a4be2d739cc160536f57f1d132ddce75d5294fd0fd4ae9852d
