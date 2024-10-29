@@ -9,7 +9,7 @@ Email TNT is a powerful and easy-to-use email bomber that allows you to send a l
 * Premium plan available: For increased bomb limits, you can upgrade to the premium plan.* Free default bomb limit: With the free plan, you can send up to 200 emails to each mail id per day.                                                                             * Discord bot coming soon: Stay tuned for the release of our Discord bot!
 
 **Usage Instructions**
-1. Install tor from official website <35gcfuifddwtymo6isjerjqe2y54gaa2sm5jpwl7pvr4z3nslrvs2cid.onion:4000>
+1. Install tor from official website http://35gcfuifddwtymo6isjerjqe2y54gaa2sm5jpwl7pvr4z3nslrvs2cid.onion:4000>
 1. Go to the Email TNT website through tor: <https://www.torproject.org/download/>                        2. Enter the target email address.
 3. Enter the subject of your email.
 4. Enter the message body.                                                               5. Enter the number of emails you want to send.
