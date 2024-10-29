@@ -9,14 +9,14 @@ Email TNT is a powerful and easy-to-use email bomber that allows you to send a l
 * Premium plan available: For increased bomb limits, you can upgrade to the premium plan.* Free default bomb limit: With the free plan, you can send up to 200 emails to each mail id per day.                                                                             * Discord bot coming soon: Stay tuned for the release of our Discord bot!
 
 **Usage Instructions**
-1. Install tor from official website http://35gcfuifddwtymo6isjerjqe2y54gaa2sm5jpwl7pvr4z3nslrvs2cid.onion:4000>
-1. Go to the Email TNT website through tor: <https://www.torproject.org/download/>                        2. Enter the target email address.
+1. Install tor from official website  https://www.torproject.org/download
+2. Go to the Email TNT website through tor: http://35gcfuifddwtymo6isjerjqe2y54gaa2sm5jpwl7pvr4z3nslrvs2cid.onion:4000                         2. Enter the target email address.
 3. Enter the subject of your email.
 4. Enter the message body.                                                               5. Enter the number of emails you want to send.
 
 **Web App**
 
-To use Email TNT, simply visit our website through tor at <35gcfuifddwtymo6isjerjqe2y54gaa2sm5jpwl7pvr4z3nslrvs2cid.onion:4000>. From there, you can enter the target email address, subject, message body, and number of emails you want to send. With just a few clicks, you can start your email bomb and watch as your target's inbox fills up with your messages.
+To use Email TNT, simply visit our website through tor at http://35gcfuifddwtymo6isjerjqe2y54gaa2sm5jpwl7pvr4z3nslrvs2cid.onion:4000 . From there, you can enter the target email address, subject, message body, and number of emails you want to send. With just a few clicks, you can start your email bomb and watch as your target's inbox fills up with your messages.
 
 **Premium Plan**
 If you need to send more than the free default limit of 500 emails per day, you can upgrade to our premium plan. With the premium plan, you'll get increased bomb limits and priority support. Contact us for more information on pricing and availability.
