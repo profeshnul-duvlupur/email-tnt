@@ -1,6 +1,6 @@
 **Email TNT: The Ultimate Email Bomber**
 
-Email TNT is a powerful and easy-to-use email bomber that allows you to send a large number of emails to a target email address. With its fast and reliable service, you can be sure that your emails will reach the inbox of your target.
+Email TNT is a powerful and easy-to-use email bomber that allows you to send a large number of emails to a target email address. With its fast and reliable service, you can be sure that your emails will reach the inbox of your target. 
 
 **Features**
 
